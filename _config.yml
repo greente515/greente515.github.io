@@ -21,7 +21,7 @@ user:
   name: greente515
   pic: /assets/img/cat.jpg
   picAlt: "stroy"
-  job: a category-centric theme
+  job: Developer
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
